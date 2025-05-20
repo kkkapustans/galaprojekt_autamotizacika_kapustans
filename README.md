@@ -13,6 +13,7 @@ Izmantotās Python bibliotēkas
 •	requests – vienkārša un uzticama HTTP klienta bibliotēka pieprasījumu veikšanai RSS URL; nodrošina statusa koda validāciju un izņēmumu apstrādi.
 •	xml.etree.ElementTree – iebūvētais XML analizētājs valodā Python, ko izmanto, lai droši un efektīvi konvertētu RSS XML Python objektu kokā.
 •	sys – sistēmas modulis, ko izmanto kļūdu ziņošanai (sys.stderr) un skripta pārtraukšanai ar statusa kodu (sys.exit).
+•	workbook from openpyxl-izveido vai apstrādā Microsoft Excel failus.
 
 Datu struktūras
 
